@@ -1,0 +1,7 @@
+Checkpoint 1: (984, 411)
+Checkpoint 2: (266, 402)
+Checkpoint 3: (259, 4)
+
+Enemy spawn 1: (1077, 401)
+Enemy spawn 2: (378, 486)
+Enemy spawn 3 (Maybe not final): (178, 169)
